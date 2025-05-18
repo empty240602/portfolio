@@ -48,7 +48,7 @@ function ContactSection() {
                                         href="mailto:hello@gmail.com"
                                         className="text-muted-foreground hover:text-primary transition-colors"
                                     >
-                                        hello@gmail.com
+                                        minhtrong24062002@gmail.com
                                     </a>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@ function ContactSection() {
                                         href="tel:+11234567890"
                                         className="text-muted-foreground hover:text-primary transition-colors"
                                     >
-                                        +1 (123) 456-7890
+                                        +84 38 711 0724
                                     </a>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@ function ContactSection() {
                                 <div>
                                     <h4 className="font-medium"> Location</h4>
                                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                                        123 Ni Su Huynh Lien
+                                        Ni Su Huynh Lien, phường 10, Tân Bình, Tp HCM
                                     </a>
                                 </div>
                             </div>
